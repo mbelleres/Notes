@@ -1,0 +1,9 @@
+#example {
+    color: gray; 
+    background-color: blue;
+    border-style: dotted;
+    border-width: 3px;
+    border-radius: 5px;
+    height: 200px;
+    text-align: center;
+}
